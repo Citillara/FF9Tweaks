@@ -1,0 +1,9 @@
+﻿<GameInfo Name="FINAL FANTASY IX">
+	<Folder>x64</Folder>
+	<ModsDirectory>Mods</ModsDirectory>
+	<ModInfo>Info.json</ModInfo>
+	<GameExe>FF9.exe</GameExe>
+	<EntryPoint>[UnityEngine.UIModule.dll]UnityEngine.Canvas.cctor:Before</EntryPoint>
+	<StartingPoint>[Assembly-CSharp.dll]Game.Start:After</StartingPoint>
+	<UIStartingPoint>[Assembly-CSharp.dll]MainMenuUI.Awake:After</UIStartingPoint>
+</GameInfo>

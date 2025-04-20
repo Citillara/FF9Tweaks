@@ -1,0 +1,7 @@
+﻿{
+  "Id": "FF9Tweaks",
+  "Version": "1.8.12",
+  "EntryMethod": "FF9Tweaks.Main.Load",
+  "DisplayName": "Citillara's 'Final Fantasy IX Tweaks",
+  "Author": "Citillara"
+}
